@@ -1,1 +1,1 @@
-# md5_dotnet
+# Papildināju 4.md. Šī md prasības izpildītas failos ConnectionManager.cs, frmInventory.cs, frmAddItem.cs
